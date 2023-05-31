@@ -28,6 +28,8 @@ I may continue to work on this.
 
 The goal of this is to make a free altenrative to vidyo.ai and opus.pro
 
+I did "AI" cause lamooooo
+
 its not that good, but still I'm new
 
 
