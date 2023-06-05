@@ -2,7 +2,6 @@ import pytube
 from moviepy.editor import *
 import os
 from moviepy.video.io.VideoFileClip import VideoFileClip
-import pytube
 import speech_recognition as sr
 import youtube_transcript_api
 import time
