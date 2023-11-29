@@ -3,7 +3,7 @@ This is a simple python script that takes a youtube link and converts it into sh
 
 
 
-
+I AM NOW WORKING ON THIS AGAIN, I apologize, as much as i wanted this to be good, i have had school and homework.
 
 How to setup:
 
